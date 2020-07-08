@@ -1,105 +1,105 @@
 {
   "items":[
     {
-      "type":"item",
+      "type":"Component",
       "id":642,
       "description":"White Stone Pedestal Lg White",
       "price_usd":"19.07",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/mz5xpj3t9yqqwgolzpar.jpg"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":643,
       "description":"White Stone Pedestal Sm White",
       "price_usd":"13.5",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/zttzivy6kurp9um5nzjk.jpg"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":728,
       "description":"Geo Shapes Set of 3 Antique Brass",
       "price_usd":"38.4",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/enbm5tcknxqtg8axklmq.jpg"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":746,
       "description":"Crystal Sphere Antique Brass",
       "price_usd":"46.63",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/waeja6o6uilbvjomfcg6.jpg"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":770,
       "description":"Blue Stone Box Small Blue",
       "price_usd":"19.67",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/mzibnwrz691yfcjwwmbq.jpg"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":11580,
       "description":"NTC Turin Dining Chair - Sea Green",
       "price_usd":"71.42",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/svne0ivbbgbrag2duyzm"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":12992,
       "description":"Culver Rug, Color: Gold/Grey",
       "price_usd":"182.81",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/kfacldcevnd0cpcnpsbl"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":992,
       "description":"Aria Rose Gold Coffee Table with Walnut Top",
       "price_usd":"183.2",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/zfq7xfrkkht0w8npsyri"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":2538,
       "description":"Aria Rose Gold Coffee Table with Walnut Top",
       "price_usd":"183.2",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/zfq7xfrkkht0w8npsyri"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":3454,
       "description":"35383",
       "price_usd":"105.78",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/lisxycxkvqyrtqfjrba0"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":7329,
       "description":"ZB-D119 Dining Chair",
       "price_usd":"45.0",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/ircevjedt9gioiwcg3lb"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":8285,
       "description":"Urban P80171 Sofabed Grey Texture",
       "price_usd":"599.0",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/ylm2ptqzdiedxzq40nv3"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":11082,
       "description":"Dawood E1 Small - White Hi Gloss",
       "price_usd":"56.2",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/ajapruzj0f4yidbtezyv"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":12994,
       "description":"Durham Rug ,Color: Linen,Hand Tufted, Wool",
       "price_usd":"50.69",
       "image_url":"http://res.cloudinary.com/sonder-development/image/upload/i8v6zzrp0fckb1hnsvxo"
     },
     {
-      "type":"item",
+      "type":"Component",
       "id":12997,
       "description":"Durham Rug ,Color: Linen,Hand Tufted, Wool",
       "price_usd":"238.44",
